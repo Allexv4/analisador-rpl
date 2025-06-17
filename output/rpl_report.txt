@@ -1,0 +1,49 @@
+=== Relatório de Topologia RPL ===
+
+Total pacotes: 738
+Pacotes RPL: 357
+Nós detectados: 13
+
+Hierarquia de nós:
+- Nó 1a (Rank: 512)
+- Nó 5 (Rank: 512)
+- Nó 3 (Rank: 512)
+- Nó 2 (Rank: 512)
+- Nó 10 (Rank: 768)
+- Nó 12 (Rank: 768)
+- Nó 9 (Rank: 768)
+- Nó 11 (Rank: 768)
+- Nó 4 (Rank: 768)
+- Nó 6 (Rank: 768)
+- Nó 7 (Rank: 768)
+- Nó 8 (Rank: 768)
+- Nó 1 (Rank: 1024)
+
+Relações de roteamento:
+1a -> 1
+1a -> 5
+1a -> 2
+1a -> 3
+1a -> 10
+1a -> 12
+1a -> 9
+1a -> 11
+1a -> 4
+1a -> 6
+1a -> 7
+1a -> 8
+5 -> 1
+5 -> 6
+3 -> 1
+3 -> 4
+2 -> 1
+2 -> 10
+2 -> 9
+10 -> 12
+12 -> 10
+9 -> 11
+11 -> 9
+6 -> 7
+7 -> 6
+7 -> 8
+8 -> 7
