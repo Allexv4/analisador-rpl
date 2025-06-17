@@ -88,6 +88,10 @@ python rpl_graph_generator.py
 - Gera layout organizado por níveis
 - Salva imagem em alta resolução
 
+## Visualização da Topologia
+
+![Grafo RPL](output/topologia_rpl_final.png)
+
 ## 📋 Interpretação dos Resultados
 
 ### 🎨 Hierarquia de Cores no Grafo
